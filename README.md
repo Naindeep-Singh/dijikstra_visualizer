@@ -30,7 +30,7 @@ To use this code, follow these steps:
 
 ## Example Output
 
-![Output](output.png)
+![Output](Output.png)
 
 ## Additional Notes
 
